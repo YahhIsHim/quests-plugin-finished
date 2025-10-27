@@ -1,0 +1,401 @@
+quests:
+  quest1:
+    name: Quest 1
+    type: SURVIVAL
+    autoTracked: true
+  quest2:
+    name: Quest 2
+    type: RESOURCE
+    autoTracked: true
+  quest3:
+    name: Quest 3
+    type: BUILDING
+    autoTracked: false
+  quest4:
+    name: Quest 4
+    type: EXPLORATION
+    autoTracked: true
+  quest5:
+    name: Quest 5
+    type: COMBAT
+    autoTracked: true
+  quest6:
+    name: Quest 6
+    type: SURVIVAL
+    autoTracked: true
+  quest7:
+    name: Quest 7
+    type: RESOURCE
+    autoTracked: true
+  quest8:
+    name: Quest 8
+    type: BUILDING
+    autoTracked: false
+  quest9:
+    name: Quest 9
+    type: EXPLORATION
+    autoTracked: true
+  quest10:
+    name: Quest 10
+    type: COMBAT
+    autoTracked: true
+  quest11:
+    name: Quest 11
+    type: SURVIVAL
+    autoTracked: true
+  quest12:
+    name: Quest 12
+    type: RESOURCE
+    autoTracked: true
+  quest13:
+    name: Quest 13
+    type: BUILDING
+    autoTracked: false
+  quest14:
+    name: Quest 14
+    type: EXPLORATION
+    autoTracked: true
+  quest15:
+    name: Quest 15
+    type: COMBAT
+    autoTracked: true
+  quest16:
+    name: Quest 16
+    type: SURVIVAL
+    autoTracked: true
+  quest17:
+    name: Quest 17
+    type: RESOURCE
+    autoTracked: true
+  quest18:
+    name: Quest 18
+    type: BUILDING
+    autoTracked: false
+  quest19:
+    name: Quest 19
+    type: EXPLORATION
+    autoTracked: true
+  quest20:
+    name: Quest 20
+    type: COMBAT
+    autoTracked: true
+  quest21:
+    name: Quest 21
+    type: SURVIVAL
+    autoTracked: true
+  quest22:
+    name: Quest 22
+    type: RESOURCE
+    autoTracked: true
+  quest23:
+    name: Quest 23
+    type: BUILDING
+    autoTracked: false
+  quest24:
+    name: Quest 24
+    type: EXPLORATION
+    autoTracked: true
+  quest25:
+    name: Quest 25
+    type: COMBAT
+    autoTracked: true
+  quest26:
+    name: Quest 26
+    type: SURVIVAL
+    autoTracked: true
+  quest27:
+    name: Quest 27
+    type: RESOURCE
+    autoTracked: true
+  quest28:
+    name: Quest 28
+    type: BUILDING
+    autoTracked: false
+  quest29:
+    name: Quest 29
+    type: EXPLORATION
+    autoTracked: true
+  quest30:
+    name: Quest 30
+    type: COMBAT
+    autoTracked: true
+  quest31:
+    name: Quest 31
+    type: SURVIVAL
+    autoTracked: true
+  quest32:
+    name: Quest 32
+    type: RESOURCE
+    autoTracked: true
+  quest33:
+    name: Quest 33
+    type: BUILDING
+    autoTracked: false
+  quest34:
+    name: Quest 34
+    type: EXPLORATION
+    autoTracked: true
+  quest35:
+    name: Quest 35
+    type: COMBAT
+    autoTracked: true
+  quest36:
+    name: Quest 36
+    type: SURVIVAL
+    autoTracked: true
+  quest37:
+    name: Quest 37
+    type: RESOURCE
+    autoTracked: true
+  quest38:
+    name: Quest 38
+    type: BUILDING
+    autoTracked: false
+  quest39:
+    name: Quest 39
+    type: EXPLORATION
+    autoTracked: true
+  quest40:
+    name: Quest 40
+    type: COMBAT
+    autoTracked: true
+  quest41:
+    name: Quest 41
+    type: SURVIVAL
+    autoTracked: true
+  quest42:
+    name: Quest 42
+    type: RESOURCE
+    autoTracked: true
+  quest43:
+    name: Quest 43
+    type: BUILDING
+    autoTracked: false
+  quest44:
+    name: Quest 44
+    type: EXPLORATION
+    autoTracked: true
+  quest45:
+    name: Quest 45
+    type: COMBAT
+    autoTracked: true
+  quest46:
+    name: Quest 46
+    type: SURVIVAL
+    autoTracked: true
+  quest47:
+    name: Quest 47
+    type: RESOURCE
+    autoTracked: true
+  quest48:
+    name: Quest 48
+    type: BUILDING
+    autoTracked: false
+  quest49:
+    name: Quest 49
+    type: EXPLORATION
+    autoTracked: true
+  quest50:
+    name: Quest 50
+    type: COMBAT
+    autoTracked: true
+  quest51:
+    name: Quest 51
+    type: SURVIVAL
+    autoTracked: true
+  quest52:
+    name: Quest 52
+    type: RESOURCE
+    autoTracked: true
+  quest53:
+    name: Quest 53
+    type: BUILDING
+    autoTracked: false
+  quest54:
+    name: Quest 54
+    type: EXPLORATION
+    autoTracked: true
+  quest55:
+    name: Quest 55
+    type: COMBAT
+    autoTracked: true
+  quest56:
+    name: Quest 56
+    type: SURVIVAL
+    autoTracked: true
+  quest57:
+    name: Quest 57
+    type: RESOURCE
+    autoTracked: true
+  quest58:
+    name: Quest 58
+    type: BUILDING
+    autoTracked: false
+  quest59:
+    name: Quest 59
+    type: EXPLORATION
+    autoTracked: true
+  quest60:
+    name: Quest 60
+    type: COMBAT
+    autoTracked: true
+  quest61:
+    name: Quest 61
+    type: SURVIVAL
+    autoTracked: true
+  quest62:
+    name: Quest 62
+    type: RESOURCE
+    autoTracked: true
+  quest63:
+    name: Quest 63
+    type: BUILDING
+    autoTracked: false
+  quest64:
+    name: Quest 64
+    type: EXPLORATION
+    autoTracked: true
+  quest65:
+    name: Quest 65
+    type: COMBAT
+    autoTracked: true
+  quest66:
+    name: Quest 66
+    type: SURVIVAL
+    autoTracked: true
+  quest67:
+    name: Quest 67
+    type: RESOURCE
+    autoTracked: true
+  quest68:
+    name: Quest 68
+    type: BUILDING
+    autoTracked: false
+  quest69:
+    name: Quest 69
+    type: EXPLORATION
+    autoTracked: true
+  quest70:
+    name: Quest 70
+    type: COMBAT
+    autoTracked: true
+  quest71:
+    name: Quest 71
+    type: SURVIVAL
+    autoTracked: true
+  quest72:
+    name: Quest 72
+    type: RESOURCE
+    autoTracked: true
+  quest73:
+    name: Quest 73
+    type: BUILDING
+    autoTracked: false
+  quest74:
+    name: Quest 74
+    type: EXPLORATION
+    autoTracked: true
+  quest75:
+    name: Quest 75
+    type: COMBAT
+    autoTracked: true
+  quest76:
+    name: Quest 76
+    type: SURVIVAL
+    autoTracked: true
+  quest77:
+    name: Quest 77
+    type: RESOURCE
+    autoTracked: true
+  quest78:
+    name: Quest 78
+    type: BUILDING
+    autoTracked: false
+  quest79:
+    name: Quest 79
+    type: EXPLORATION
+    autoTracked: true
+  quest80:
+    name: Quest 80
+    type: COMBAT
+    autoTracked: true
+  quest81:
+    name: Quest 81
+    type: SURVIVAL
+    autoTracked: true
+  quest82:
+    name: Quest 82
+    type: RESOURCE
+    autoTracked: true
+  quest83:
+    name: Quest 83
+    type: BUILDING
+    autoTracked: false
+  quest84:
+    name: Quest 84
+    type: EXPLORATION
+    autoTracked: true
+  quest85:
+    name: Quest 85
+    type: COMBAT
+    autoTracked: true
+  quest86:
+    name: Quest 86
+    type: SURVIVAL
+    autoTracked: true
+  quest87:
+    name: Quest 87
+    type: RESOURCE
+    autoTracked: true
+  quest88:
+    name: Quest 88
+    type: BUILDING
+    autoTracked: false
+  quest89:
+    name: Quest 89
+    type: EXPLORATION
+    autoTracked: true
+  quest90:
+    name: Quest 90
+    type: COMBAT
+    autoTracked: true
+  quest91:
+    name: Quest 91
+    type: SURVIVAL
+    autoTracked: true
+  quest92:
+    name: Quest 92
+    type: RESOURCE
+    autoTracked: true
+  quest93:
+    name: Quest 93
+    type: BUILDING
+    autoTracked: false
+  quest94:
+    name: Quest 94
+    type: EXPLORATION
+    autoTracked: true
+  quest95:
+    name: Quest 95
+    type: COMBAT
+    autoTracked: true
+  quest96:
+    name: Quest 96
+    type: SURVIVAL
+    autoTracked: true
+  quest97:
+    name: Quest 97
+    type: RESOURCE
+    autoTracked: true
+  quest98:
+    name: Quest 98
+    type: BUILDING
+    autoTracked: false
+  quest99:
+    name: Quest 99
+    type: EXPLORATION
+    autoTracked: true
+  quest100:
+    name: Quest 100
+    type: COMBAT
+    autoTracked: true
